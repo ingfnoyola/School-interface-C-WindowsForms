@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\AppEscuela 3\bin\Debug\AppEscuela 3.exe.config
+C:\Users\oscar\source\repos\AppEscuela 3\bin\Debug\AppEscuela 3.exe
+C:\Users\oscar\source\repos\AppEscuela 3\bin\Debug\AppEscuela 3.pdb
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela 3.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela_3.Form1.resources
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela_3.Properties.Resources.resources
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela 3.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela 3.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela 3.exe
+C:\Users\oscar\source\repos\AppEscuela 3\obj\Debug\AppEscuela 3.pdb
